@@ -1,7 +1,7 @@
-package POO;
+package POO.lista1;
 import java.util.Scanner;
 
-class App{
+class Exe1{
     /**
      * @param args
      */
